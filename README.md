@@ -1,3 +1,0 @@
-adamjinks.github.io
-
-# Documentation
